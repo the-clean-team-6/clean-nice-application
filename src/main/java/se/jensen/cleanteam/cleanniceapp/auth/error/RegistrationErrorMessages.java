@@ -1,4 +1,4 @@
-package se.jensen.cleanteam.cleanniceapp.auth;
+package se.jensen.cleanteam.cleanniceapp.auth.error;
 
 public class RegistrationErrorMessages {
     /*
