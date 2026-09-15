@@ -1,6 +1,6 @@
 package se.jensen.cleanteam.cleanniceapp.auth.service;
 
-class TokenService {
+public class TokenService {
 
   // generates a token!
 
